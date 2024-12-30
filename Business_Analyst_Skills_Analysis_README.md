@@ -205,6 +205,5 @@ LIMIT 10;
 
 This project highlights the skills and roles shaping the 2023 Business Analyst job market. By focusing on high-demand and high-paying skills, professionals can better position themselves for success. SQL proved invaluable for uncovering actionable insights, and the visualizations provide a clear understanding of market trends.
 
-For access to the SQL scripts, visit the project repository: [Your Repository Link]. 
 
 ---
